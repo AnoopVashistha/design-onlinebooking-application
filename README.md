@@ -12,3 +12,17 @@ Low level classes and design to support the functionality.
 
 Work in progress and please let me know if you want to contribute in design and discussions.
 
+
+CLasses at quick glance:
+- Theatre
+- Movie
+- seats
+- customer
+- booking
+
+
+- services:
+bookingService - 
+Notification service - 
+FindSeats -
+
